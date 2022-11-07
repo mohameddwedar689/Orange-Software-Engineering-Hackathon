@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\asbea\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asbea\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\asbea\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\asbea\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
